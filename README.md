@@ -1,1 +1,1 @@
-My first readme
+My amazing coding project
